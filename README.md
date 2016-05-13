@@ -4,8 +4,7 @@ Presenta Jorge Velásquez-Tibatá PhD. del Instituto de Investigación de Recurs
 
 ## Hangouts.
 
-![image alt text](https://github.com/modeladonicho/codigoR/blob/master/img/youtubevidjorge.jpg)
-[link text](https://plus.google.com/events/cu7v2fkkpotsfenhj1vrcjafvc0 "Hangout")
+[![Presentacion](https://github.com/modeladonicho/codigoR/blob/master/img/youtubevidjorge.jpg?raw=true)](https://plus.google.com/events/cu7v2fkkpotsfenhj1vrcjafvc0 "Hangout")
 
 
 ### [Código de la Presentación](https://github.com/jivelasquezt/courses)
