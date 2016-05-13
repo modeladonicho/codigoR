@@ -8,4 +8,4 @@ Presenta Jorge Velásquez-Tibatá PhD. del Instituto de Investigación de Recurs
 [link text](https://plus.google.com/events/cu7v2fkkpotsfenhj1vrcjafvc0 "Hangout")
 
 
-## Código de la Presentación
+### [Código de la Presentación](https://github.com/jivelasquezt/courses)
